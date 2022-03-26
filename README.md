@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... Tech
 - 🌱 I’m currently learning ... Python & Cloud
 - 💞️ I’m looking to collaborate on ... python projects or learning cloud formation
-- 📫 How to reach me ... @josephhllwy
+- 📫 How to reach me .....ComingSoon
 
 <!---
 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
