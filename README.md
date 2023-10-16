@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @T3rmin8r
-- 👀 I’m interested in ... Tech
-- 🌱 I’m currently learning ... Python & Cloud
+- 👀 I’m interested in ... all things Tech
+- 🌱 I’m currently learning ... Python, Golang, & Cloud
 - 💞️ I’m looking to collaborate on ... python projects or learning cloud formation
 - 📫 How to reach me .....ComingSoon
 
